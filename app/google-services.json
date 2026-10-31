@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "153188403763",
+        "project_id": "gen-lang-client-0168859599",
+        "storage_bucket": "gen-lang-client-0168859599.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:153188403763:android:b217c86ca28b22069c3146",
+                "android_client_info": {
+                    "package_name": "com.kaeruu.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "153188403763-edj7c29tsb1gns0sn68c98u7g90kj24s.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.nimestream.app",
+                        "certificate_hash": "9522f94d8403adde8a9f90caa0732108b0bb575b"
+                    }
+                },
+                {
+                    "client_id": "153188403763-9tu82hm7qeo8ms8a5chkpk0lhkc8n5jg.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBKa2gS7zkHklf0usN9EJQDj0DYePJDb7I"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "153188403763-9tu82hm7qeo8ms8a5chkpk0lhkc8n5jg.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
